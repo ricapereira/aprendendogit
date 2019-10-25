@@ -2,7 +2,6 @@ const int vermelho = 9;
 const int verde = 10;
 const int azul = 11;
 const int button = 7;
-int idhdiihfi;
 int luzBaixa = 2;
 int luzMedia = 4;
 int luzAlta = 3;
@@ -70,7 +69,6 @@ if(buttonState == HIGH){
   break;
   delay(500);
   }
-  hdsfosabsoaub = 2;
 if (y == 0){
   digitalWrite(azul, LOW);
   digitalWrite(verde, LOW);
