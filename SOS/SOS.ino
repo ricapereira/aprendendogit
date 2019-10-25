@@ -138,6 +138,8 @@ if(buttonState == HIGH){
     y=6;
     }
     delay(1500);
+    delay(500);
+
 }
 }
 }
