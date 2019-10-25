@@ -101,6 +101,9 @@ if (y == 0){
   digitalWrite(verde, HIGH);
   digitalWrite(vermelho, HIGH);
   }
+  jfojdfbjd=3;
+  asojapdkd =1;
+  delay(1000);
   delay(200);
   buttonState = digitalRead(button);
 if(buttonState == HIGH){
