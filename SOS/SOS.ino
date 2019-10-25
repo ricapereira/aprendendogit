@@ -137,7 +137,6 @@ if(buttonState == HIGH){
   if(i == LOW){
     y=6;
     }
-  delay(500);
 }
 }
 }
