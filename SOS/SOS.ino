@@ -3,6 +3,8 @@ const int verde = 10;
 const int azul = 11;
 const int button = 7;
 int luzBaixa = 2;
+int jsfojfoa;
+char ishfpisfn;
 int luzMedia = 4;
 int luzAlta = 3;
 int ldr = A0;
