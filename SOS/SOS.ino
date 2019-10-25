@@ -70,6 +70,7 @@ if(buttonState == HIGH){
   break;
   delay(500);
   }
+  hdsfosabsoaub = 2;
 if (y == 0){
   digitalWrite(azul, LOW);
   digitalWrite(verde, LOW);
